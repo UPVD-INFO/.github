@@ -39,6 +39,7 @@ https://github.com/hneemann/Digital
 Pour ce qui sont nouveau sur github, des que vous rentrer sur la page principal vous allez pouvoir trouver tout ses dossier (ou appele repertoire sur github) a votre droite comme montre dans l'image
 <img width="1715" height="833" alt="image" src="https://github.com/user-attachments/assets/ed9b1c22-4a59-4dec-8ff9-f840b345985f" />
 
+Si vous trouvez pas le repertoire comme dans l'image, juste scroller encore un peu vers le bas et vous les trouverer apres ce text.
 Je vous encourage fortement a utiliser githib et apprendre a l'utiliser car cela va pouvoir vous permettre de vous developpez de maniere professionnel et d'avoir une trace de votre progres/Experience qui vous aidera dans un futur pour des Stages ou travail.
 Vous pouvez apprendre comment le faire grace a chatgpt(c'est le plus simple et ce que j'ai fait personellement)
 
