@@ -42,7 +42,10 @@ Pour ce qui sont nouveau sur github, des que vous rentrer sur la page principal 
 Je vous encourage fortement a utiliser githib et apprendre a l'utiliser car cela va pouvoir vous permettre de vous developpez de maniere professionnel et d'avoir une trace de votre progres/Experience qui vous aidera dans un futur pour des Stages ou travail.
 Vous pouvez apprendre comment le faire grace a chatgpt(c'est le plus simple et ce que j'ai fait personellement)
 
-Voici tout ce que j'ai a vous dire de ma part, n'hesitez pas a me complementer en voulant ajouter des nouveaux sujets ou des conseils pour ameliorer le github afin de pouvoir faire de cela un point de reference pour les actuels et future Licence Info.
+Voici tout ce que j'ai a vous dire de ma part, n'hesitez pas a me complementer en voulant ajouter des nouveaux sujets ou des conseils pour ameliorer le github afin de pouvoir faire de cela un point de reference pour les actuels et future Licence Info. N'hesitez pas a partager ce github afin de pouvoir grandir en communaute pour s'entre aider entre nous! Oubliez pas rejoindre le discord egallement.
+Voici le lien si vous voulez le partager:
+https://github.com/UPVD-INFO
+
 
 Merci pour votre attention.
 Cordialement.
